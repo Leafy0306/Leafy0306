@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Leif Josh Flores** (you can call me **LJ**) — an aspiring **DevOps Engineer**, **Software Engineer**, and **Full-Stack Developer**.  
+I'm **Leif Josh Flores** (you can call me **LJ**) — an aspiring  **Software Engineer**, or **Full-Stack Developer**.  
 I love exploring the intersection of development and operations while building scalable, reliable, and user-friendly applications.  
 
 ---------------------
