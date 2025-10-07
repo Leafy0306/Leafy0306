@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leif Josh Flores (you can call me LJ)</h1>
-<h3 align="center">— an aspiring DevOps Engineer, Software Engineer, and Full-Stack Developer</h3>
+<h3 align="center">— an aspiring DevOps Engineer, Software Engineer</h3>
 
 - 📫 How to reach me: **floresleifjosh@gmail.com**
 
